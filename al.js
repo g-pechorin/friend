@@ -1,4 +1,4 @@
-alert('hello friend 4');
+alert('hello friend 2');
 
 var v =  window.getElementsByTagName('video');
 alert('letse sse');
